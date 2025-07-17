@@ -13,7 +13,7 @@ Zamonaviy va responsiv **Admin Panel** — foydalanuvchi ma'lumotlarini boshqari
 Bu loyiha quyidagi texnologiyalar asosida qurilgan:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind," alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,css,nextjs,tailwind," alt="Tech Stack Icons" />
 </p>
 
 - **TailwindCSS**
